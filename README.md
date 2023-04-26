@@ -1,4 +1,4 @@
-<img title="silly milly" alt="cat with tounge out lol :D" src="/milly.jpg" height="250">
+<img title="WELCOME TO MY WEBSITE!" alt="welcome to my website" src="/website.png" height="825">
 
 <h1>Most of my 'real' repos are hidden. Ask me if you want read access.</h1>
 
@@ -33,3 +33,6 @@ RIP(?)
 ## (QUIT) Cherri : Cherri is a x86_64-based operating-system
 Very poor into development and quit sometime in 2021.
 RIP.
+
+EOF
+<img title="silly milly" alt="cat with tounge out lol :D" src="/milly.jpg" height="250">
