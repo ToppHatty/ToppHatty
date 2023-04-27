@@ -4,12 +4,13 @@
 
 ## (CURRENT) IDONTHAVEANAME : C:> namegen
 IDONTHAVEANAME is annoying to type, so I'll refer to it as IDHAN.
-IDHAN is a x86_64-based operating system with interrupt handling, 8259 PIC support and much more down the road.
+IDHAN is a x86_64-based operating system with interrupt handling, 8259 PIC support, ACPI support, and much more down the road.
 IDHAN's "name" is a joke based on a DOS command "namegen" suggesting the name "IDONTHAVEANAME"
 
 Currently IDHAN is going smoothly, just treading the typical x86_64 boilerplate like normal.
 
-I plan on adding things such as ACPI support, a printf implementation, APIC support, and scheduling.
+I plan on adding things such as a printf implementation, APIC support, scheduling,
+and (MAYBE) higher-level language support.
 IDHAN's "name" 100% is subject to change. 
 
 ## (HALTED) quik :  Quik is a x86_64-based operating-system
