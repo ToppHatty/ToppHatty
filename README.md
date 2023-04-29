@@ -8,6 +8,7 @@ IDHAN is a x86_64-based operating system with interrupt handling, 8259 PIC suppo
 IDHAN's "name" is a joke based on a DOS command "namegen" suggesting the name "IDONTHAVEANAME"
 
 Currently IDHAN is going smoothly, just treading the typical x86_64 boilerplate like normal.
+*i'm also adding a UEFI bootloader to it as we speak
 
 I plan on adding things such as a printf implementation, APIC support, scheduling,
 and (MAYBE) higher-level language support.
